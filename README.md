@@ -1,7 +1,7 @@
-# Phantom OG
+# Phantom
 
-WHAT IS PROJECT Phantom OG?
-Project Phantom OG allows you to re-experience the original Fortnite, using old game files from all
+WHAT IS PROJECT Phantom?
+Project Phantom allows you to re-experience the original Fortnite, using old game files from all
 seasons.
 You can host and run your own local server on your PC and even play with friends.
 
@@ -28,5 +28,3 @@ DO I NEED TO CONNECT TO EXTERNAL SERVERS?
 No, the DLL is only used to create and run your own local server on your PC. You won’t be
 connecting to external servers, making this an entirely local setup
 
-Oh! And Phantom OG will release on April 20th So there are'nt download files yet but when there are you will be notificated if you are in our discord server:
-https://discord.gg/zHM6Au3Q
